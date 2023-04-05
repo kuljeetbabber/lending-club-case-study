@@ -2,7 +2,6 @@
 This is a case study on Lending Club data analysis, done as part of an EDA assignment for Executive PG Programme in Machine Learning & AI - February 2023 course.
 
 
-
 ## Introduction
 In this case study, we explore the Lending Club dataset, which contains loan data for different borrowers. The aim of this analysis is to understand how consumer attributes and loan attributes influence the tendency of default and provide insights that can help inform business decisions.
 
@@ -11,7 +10,7 @@ We used Python and its data analysis libraries such as Numpy, Pandas, Matplotlib
 
 
 ## Conclusions
-We found some interesting things during our analysis, such as:
+I have listed a few conclusions below. For a detailed analysis and recommendations, please refer to the pdf file "Lending Club Case Study Presentation.pdf".
 - People who have taken loan for a tenure of 60 months have higher chances of defaulting
 - Borrowers with public bankruptcy records (1 & 2) are more likely to default on their loans.
 - People with High and Very High Income with Homeownership(other) tend to default on Loan
