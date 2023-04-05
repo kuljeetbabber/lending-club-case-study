@@ -10,7 +10,7 @@ We used Python and its data analysis libraries such as Numpy, Pandas, Matplotlib
 
 
 ## Conclusions
-I have listed a few conclusions below. For a detailed analysis and recommendations, please refer to the pdf file "Lending Club Case Study Presentation.pdf".
+We have listed a few conclusions below. For a detailed analysis and recommendations, please refer to the pdf file "Lending Club Case Study Presentation.pdf".
 - People who have taken loan for a tenure of 60 months have higher chances of defaulting
 - Borrowers with public bankruptcy records (1 & 2) are more likely to default on their loans.
 - People with High and Very High Income with Homeownership(other) tend to default on Loan
